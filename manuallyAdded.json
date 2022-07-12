@@ -349,6 +349,31 @@
             "id":24293,
             "url":"https://www.mc-market.org/resources/24293/",
             "type":"mcmarket"
+        },
+        {
+            "likes":0,
+            "name":"ItemsAdder Social Media Robot Addon 0.1",
+            "tag":"Animated custom entities for itemsadder",
+            "author":{
+              "id":348312,
+              "name":"Yas_MC",
+              "url":"https://www.mc-market.org/members/348312/"
+            },
+            "rating":{
+              "count":0,
+              "average":0
+            },
+            "icon":{
+              "data":"",
+              "url":"https://i.imgur.com/JIUjXF1.png"
+            },
+            "releaseDate":1657588391,
+            "updateDate":1657588391,
+            "downloads":1,
+            "premium":true,
+            "id":24390,
+            "url":"https://www.mc-market.org/resources/24390/",
+            "type":"mcmarket"
         }
     ]
 }
